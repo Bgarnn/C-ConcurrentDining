@@ -17,12 +17,12 @@ Welcome to Philosophers, a project that tackles the classic Dining Philosophers 
 To compile the Philosophers program, follow these straightforward steps:
 
   - Clone the Repository:
-        - git clone git@github.com:Bgarnn/03-Philosophers.git
-        - cd 03-Philosophers
+    - git clone git@github.com:Bgarnn/03-Philosophers.git
+    - cd 03-Philosophers
   - Compile the Program:
-        - make: This will generate the philo executable.
+    - make: This will generate the philo executable.
   - Clean the Build:
-        - make clean: This removes the object files, leaving only the compiled program.
+    - make clean: This removes the object files, leaving only the compiled program.
 
 ** Now you can run Philosophers to observe the synchronized dining of philosophers!
 
