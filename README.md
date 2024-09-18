@@ -22,7 +22,7 @@ To compile the ConcurrentDining program, follow these straightforward steps:
 
   - Clone the Repository:
       - `git clone git@github.com:Bgarnn/C-ConcurrentDining.git`
-      - `cd C-ConcurrentDining`
+      - `cd C-ConcurrentDining/project`
   - Compile the Program:
       - `make`: This will generate the `dining` executable.
   - Clean the Build:
